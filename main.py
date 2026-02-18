@@ -53,7 +53,7 @@ def load_speeches(path):
 speeches = load_speeches("speeches.txt")
 
 
-first_message_shown = False  # <-- add this near the top of your code
+first_message_shown = False
 
 def spawn_text():
     global first_message_shown
@@ -93,7 +93,7 @@ def spawn_text():
 
     # horizontally center
     x = (window.width() - text_label.width()) // 2
-    # vertically float above sprite
+    # vertically float below sprite
     y = window.height() - label.height() + delta - text_label.height()
 
     text_label.move(x, y)
@@ -116,7 +116,7 @@ font_id = QtGui.QFontDatabase.addApplicationFont(font_path)
 
 if font_id == -1:
     print("failed to load fondamento")
-    fondamento_family = "Arial"  # fallback
+    fondamento_family = "Arial"  # fallback if fondamento not found for some reason
 else:
     families = QtGui.QFontDatabase.applicationFontFamilies(font_id)
     fondamento_family = families[0]
