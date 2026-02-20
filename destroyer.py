@@ -130,6 +130,10 @@ def spawn_text():
 
 app = QtWidgets.QApplication(sys.argv)
 
+def quit_app(icon, item):
+    icon.stop()
+    QtCore.QTimer.singleShot(0, app.quit)
+
 base_dir = os.path.dirname(os.path.abspath(__file__))
 font_path = resource_path("dist/resources/fonts/Fondamento-Regular.ttf")
 font_id = QtGui.QFontDatabase.addApplicationFont(font_path)
@@ -171,6 +175,21 @@ bob_squish()
 window.show()
 window.raise_()
 window.activateWindow()
+
+def create_tray_icon():
+    # create a simple icon image (or load yours)
+    image = Image.open(resource_path("dist/resources/destroy.ico"))
+
+    menu = Menu(
+        MenuItem("Summon Muffin", lambda icon, item: window.show()),
+        MenuItem("Quit", quit_app)
+    )
+
+    icon = Icon("destroyman", image, "Destroyman III", menu)
+    icon.run_detached()
+    return icon
+
+tray_icon = create_tray_icon()
 
 # squish timer
 bob_timer = QtCore.QTimer()
