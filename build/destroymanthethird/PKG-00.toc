@@ -57,17 +57,57 @@
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
    'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
   ('PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
    'BINARY'),
   ('PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwbmp.dll',
    'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+  ('PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qminimal.dll',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
    'BINARY'),
   ('PyQt6\\Qt6\\plugins\\platforms\\qoffscreen.dll',
    'C:\\Users\\Hannes '
@@ -76,46 +116,6 @@
   ('PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qjpeg.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\generic\\qtuiotouchplugin.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\iconengines\\qsvgicon.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qsvg.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtga.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qwebp.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\platforms\\qwindows.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qpdf.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qtiff.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qgif.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\plugins\\imageformats\\qicns.dll',
    'BINARY'),
   ('PyQt6\\Qt6\\plugins\\styles\\qmodernwindowsstyle.dll',
    'C:\\Users\\Hannes '
@@ -144,6 +144,26 @@
   ('_socket.pyd',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp311-win_amd64.pyd',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\md.cp311-win_amd64.pyd',
    'EXTENSION'),
   ('PIL\\_imagingft.cp311-win_amd64.pyd',
    'C:\\Users\\Hannes '
@@ -185,21 +205,9 @@
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\pyexpat.pyd',
    'EXTENSION'),
-  ('_ssl.pyd',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
-   'EXTENSION'),
-  ('_hashlib.pyd',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
-   'EXTENSION'),
   ('_ctypes.pyd',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
-   'EXTENSION'),
-  ('_queue.pyd',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
    'EXTENSION'),
   ('PyQt6\\QtCore.pyd',
    'C:\\Users\\Hannes '
@@ -229,6 +237,14 @@
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Gui.dll',
    'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
+   'BINARY'),
+  ('PyQt6\\Qt6\\bin\\Qt6Svg.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Svg.dll',
+   'BINARY'),
   ('VCRUNTIME140_1.dll',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140_1.dll',
@@ -240,14 +256,6 @@
   ('PyQt6\\Qt6\\bin\\Qt6Network.dll',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Network.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\bin\\Qt6Svg.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Svg.dll',
-   'BINARY'),
-  ('PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\Qt6Pdf.dll',
    'BINARY'),
   ('PyQt6\\Qt6\\bin\\Qt6Widgets.dll',
    'C:\\Users\\Hannes '
@@ -273,6 +281,10 @@
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_2.dll',
    'BINARY'),
+  ('PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
+   'BINARY'),
   ('PyQt6\\Qt6\\bin\\VCRUNTIME140.dll',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\VCRUNTIME140.dll',
@@ -281,16 +293,8 @@
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\VCRUNTIME140_1.dll',
    'BINARY'),
-  ('PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin\\MSVCP140_1.dll',
-   'BINARY'),
   ('resources\\destroy.ico',
    'C:\\Users\\Hannes Koell\\Desktop\\destroyman\\dist\\resources\\destroy.ico',
-   'DATA'),
-  ('resources\\diii_normal.png',
-   'C:\\Users\\Hannes '
-   'Koell\\Desktop\\destroyman\\dist\\resources\\diii_normal.png',
    'DATA'),
   ('resources\\fonts\\Fondamento-Italic.ttf',
    'C:\\Users\\Hannes '
@@ -300,245 +304,33 @@
    'C:\\Users\\Hannes '
    'Koell\\Desktop\\destroyman\\dist\\resources\\fonts\\Fondamento-Regular.ttf',
    'DATA'),
+  ('resources\\skins\\diii_evil.png',
+   'C:\\Users\\Hannes '
+   'Koell\\Desktop\\destroyman\\dist\\resources\\skins\\diii_evil.png',
+   'DATA'),
+  ('resources\\skins\\diii_normal.png',
+   'C:\\Users\\Hannes '
+   'Koell\\Desktop\\destroyman\\dist\\resources\\skins\\diii_normal.png',
+   'DATA'),
+  ('resources\\skins\\diii_whatsapp.png',
+   'C:\\Users\\Hannes '
+   'Koell\\Desktop\\destroyman\\dist\\resources\\skins\\diii_whatsapp.png',
+   'DATA'),
   ('resources\\speeches.txt',
    'C:\\Users\\Hannes '
    'Koell\\Desktop\\destroyman\\dist\\resources\\speeches.txt',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+  ('certifi\\py.typed',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_en.qm',
+  ('certifi\\cacert.pem',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_en.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_fr.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fr.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_hu.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_hu.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_zh_CN.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_zh_CN.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_sv.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sv.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_pl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_pl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_sl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_hu.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hu.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_bg.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_bg.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_uk.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_uk.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_ko.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ko.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\cacert.pem',
    'DATA'),
   ('PyQt6\\Qt6\\translations\\qt_fa.qm',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fa.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_lv.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lv.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_uk.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_uk.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_ar.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ar.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_ru.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ru.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_ru.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ru.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_sk.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sk.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_sv.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sv.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_sv.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sv.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_tr.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_tr.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_hr.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_hr.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_lv.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lv.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_de.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_de.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_ja.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ja.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_de.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_de.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_it.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_it.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_ka.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ka.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_hr.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hr.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_ar.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ar.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_lg.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lg.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_ru.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ru.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_it.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_it.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_sk.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sk.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_sk.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sk.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_ca.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ca.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_nl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_fi.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fi.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_cs.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_cs.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_zh_TW.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_zh_TW.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_es.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_es.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_pl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_en.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_en.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_ca.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ca.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_gl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_gl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_gl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_gl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_nl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_nl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_he.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_he.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_bg.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_bg.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_ca.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ca.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_nl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_nl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_es.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_es.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_ka.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ka.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_fr.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_fr.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_da.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_da.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_pl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_hr.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_hr.qm',
    'DATA'),
   ('PyQt6\\Qt6\\translations\\qt_cs.qm',
    'C:\\Users\\Hannes '
@@ -548,145 +340,377 @@
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ar.qm',
    'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_tr.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ru.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ru.qm',
+   'DATA'),
   ('PyQt6\\Qt6\\translations\\qt_lt.qm',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lt.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_bg.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_bg.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_pt_BR.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_pt_BR.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_hu.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_hu.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_zh_CN.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_zh_CN.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_tr.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_tr.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_fa.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fa.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_ja.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ja.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_sl.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sl.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_da.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_da.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_en.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_en.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_fr.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fr.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_nn.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_nn.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_pt_BR.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pt_BR.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_nn.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nn.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_help_zh_TW.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_zh_TW.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_it.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_it.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_ja.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ja.qm',
-   'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
-   'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
    'DATA'),
   ('PyQt6\\Qt6\\translations\\qt_gd.qm',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_gd.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+  ('PyQt6\\Qt6\\translations\\qt_gl.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_gl.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_ko.qm',
+  ('PyQt6\\Qt6\\translations\\qtbase_bg.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ko.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_bg.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_lg.qm',
+  ('PyQt6\\Qt6\\translations\\qt_zh_TW.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lg.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_zh_TW.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_pt_PT.qm',
+  ('PyQt6\\Qt6\\translations\\qt_zh_CN.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pt_PT.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_da.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_tr.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ka.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ka.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_hr.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_fr.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_fi.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_sv.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_uk.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_uk.qm',
    'DATA'),
   ('PyQt6\\Qt6\\translations\\qt_es.qm',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_es.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+  ('PyQt6\\Qt6\\translations\\qt_ru.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ru.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_he.qm',
+  ('PyQt6\\Qt6\\translations\\qt_help_fr.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_he.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_fr.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_tr.qm',
+  ('PyQt6\\Qt6\\translations\\qt_help_ka.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_tr.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ka.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+  ('PyQt6\\Qt6\\translations\\qt_it.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_pt_BR.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pt_BR.qm',
    'DATA'),
   ('PyQt6\\Qt6\\translations\\qtbase_ko.qm',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ko.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qtbase_da.qm',
+  ('PyQt6\\Qt6\\translations\\qtbase_lv.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lv.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_nn.qm',
+  ('PyQt6\\Qt6\\translations\\qtbase_gd.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_nn.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_zh_CN.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_en.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ca.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_pl.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_nl.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_sk.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_he.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_sl.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_sk.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sk.qm',
    'DATA'),
   ('PyQt6\\Qt6\\translations\\qt_help_uk.qm',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_uk.qm',
    'DATA'),
-  ('PyQt6\\Qt6\\translations\\qt_de.qm',
+  ('PyQt6\\Qt6\\translations\\qtbase_cs.qm',
    'C:\\Users\\Hannes '
-   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_de.qm',
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ja.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ca.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_sl.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ko.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_sv.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_hr.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_es.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_nl.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_gl.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_it.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_pt_PT.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_pt_PT.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ar.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ar.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_hu.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_lg.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_lg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_nn.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_bg.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_sv.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_sv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_en.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_ja.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_cs.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_uk.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_lv.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_da.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_ko.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_pl.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_hu.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_de.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_it.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_it.qm',
    'DATA'),
   ('PyQt6\\Qt6\\translations\\qt_ka.qm',
    'C:\\Users\\Hannes '
    'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_ka.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_bg.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_pt_BR.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_pt_BR.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_de.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_lg.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_lg.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qt_help_nn.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qt_help_nn.qm',
+   'DATA'),
+  ('PyQt6\\Qt6\\translations\\qtbase_nn.qm',
+   'C:\\Users\\Hannes '
+   'Koell\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\translations\\qtbase_nn.qm',
    'DATA'),
   ('base_library.zip',
    'C:\\Users\\Hannes '

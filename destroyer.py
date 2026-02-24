@@ -5,7 +5,7 @@ import os
 import sys
 from pystray import Icon, Menu, MenuItem
 from PIL import Image, ImageDraw
-
+import requests
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
@@ -17,17 +17,49 @@ def resource_path(relative_path):
 
     return os.path.join(base_path, relative_path)
 
+def get_speeches(url):
+    try:
+        response = requests.get(url,timeout=5)
+        response.raise_for_status()
+        lines = [line.strip() for line in response.text.splitlines() if line.strip()]
+        return lines
+    except Exception as e:
+        print("failed to fetch speeches.txt: ",e)
+        return None
 
-
-
+sprite_size = (200,200)
 window = None
 label = None
 sprite = None
 is_squished = False  # toggle state
-
+url = "https://raw.githubusercontent.com/hansyhansy14/destroyman-the-third/main/dist/resources/speeches.txt"
+skin_index = 0
+skins = [
+    "resources/skins/diii_normal.png",
+    "resources/skins/diii_evil.png",
+    "resources/skins/diii_whatsapp.png",
+]
 # normalized position ratios (0–1)
 anchor_x_ratio = 1.0  # 100% across screen width (right-hand side)
 anchor_y_ratio = 0.13  # 0% (top)
+
+def normalized_pixmap(path):
+    pixmap = QtGui.QPixmap(path)
+    return pixmap.scaled(
+        sprite_size[0],
+        sprite_size[1],
+        QtCore.Qt.AspectRatioMode.IgnoreAspectRatio,
+        QtCore.Qt.TransformationMode.SmoothTransformation
+    )
+
+
+def change_skin(icon=None,item=None):
+    global skin_index, sprite
+    skin_index = (skin_index+1) % len(skins)
+    new_path = resource_path(skins[skin_index])
+    sprite=normalized_pixmap(new_path)
+    # redraws sprite on next bob
+    bob_squish()
 
 def bob_squish():
     global is_squished, sprite, window, label
@@ -46,7 +78,7 @@ def bob_squish():
         QtCore.Qt.TransformationMode.SmoothTransformation
     )
 
-    # dynamically calculate anchor position based on screen size (chatgpt made this one :,/ )
+    # dynamically calculate anchor position based on screen size
     screen = app.primaryScreen()
     screen_geom = screen.geometry()
     screen_width = screen_geom.width()
@@ -67,7 +99,9 @@ def load_speeches(path):
         lines = [line.strip() for line in f if line.strip()]
         return lines
 
-speeches = load_speeches(resource_path("dist/resources/speeches.txt"))
+speeches = get_speeches(url) # gets speeches.txt from github page first and foremost
+if not speeches:
+    speeches = load_speeches(resource_path("resources/speeches.txt")) # fallback in case user has no internet
 
 
 first_message_shown = False
@@ -135,7 +169,7 @@ def quit_app(icon, item):
     QtCore.QTimer.singleShot(0, app.quit)
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
-font_path = resource_path("dist/resources/fonts/Fondamento-Regular.ttf")
+font_path = resource_path("resources/fonts/Fondamento-Regular.ttf")
 font_id = QtGui.QFontDatabase.addApplicationFont(font_path)
 
 if font_id == -1:
@@ -161,7 +195,7 @@ window.setWindowTitle(":3")
 window.setFixedSize(200, 400)
 
 # load sprite
-sprite = QtGui.QPixmap(resource_path("dist/resources/diii_normal.png"))
+sprite = normalized_pixmap(resource_path(skins[skin_index]))
 
 # label to show sprite
 label = QtWidgets.QLabel(window)
@@ -178,11 +212,11 @@ window.activateWindow()
 
 def create_tray_icon():
     # create a simple icon image (or load yours)
-    image = Image.open(resource_path("dist/resources/destroy.ico"))
+    image = Image.open(resource_path("resources/destroy.ico"))
 
     menu = Menu(
-        MenuItem("Summon Muffin", lambda icon, item: window.show()),
-        MenuItem("Quit", quit_app)
+        MenuItem("Quit", quit_app),
+        MenuItem("Change Skin", change_skin)
     )
 
     icon = Icon("destroyman", image, "Destroyman III", menu)
