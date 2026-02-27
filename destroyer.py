@@ -6,6 +6,17 @@ import sys
 from pystray import Icon, Menu, MenuItem
 from PIL import Image, ImageDraw
 import requests
+import pygame as pg
+
+# todo: toggle_sounds
+# def toggle_sounds():
+
+# discord https://www.youtube.com/watch?v=vKyK6CAnjdc
+# typing www.youtube.com/watch?v=sqge5keBCq4&pp=ygUTa2V5Ym9hcmQgdHlwaW5nIHNmeA%3D%3D
+# golf hi1 wii sports https://www.youtube.com/watch?v=HqGCHBiz-jY
+# kid making robot sounds https://www.youtube.com/watch?v=kIJNOhXRQNE (boop)
+# whatsapp whistle https://www.youtube.com/watch?v=SXXVS1RpoMI
+# fnaf kids cheering www.youtube.com/watch?v=9bnUWuAO0oU&pp=ygUTZm5hZiA0IGtpZHMgeWF5IHNmeA%3D%3D (for default)
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
@@ -27,6 +38,24 @@ def get_speeches(url):
         print("failed to fetch speeches.txt: ",e)
         return None
 
+pg.mixer.init()
+discord_ping = pg.mixer.Sound(dp_path)
+whatsapp_notification = pg.mixer.Sound(wn_path)
+roar = pg.mixer.Sound(roar_path)
+beep = pg.mixer.Sound(boop)
+roar2 = pg.mixer.Sound(roar2_path)
+typing = pg.mixer.Sound(typing_path)
+putter = pg.mixer.Sound(putter_path)
+default = pg.mixer.Sound(kc_path)
+
+kc_path = 
+putter_path = 
+typing_path = 
+roar2_path = 
+boop = 
+roar_path = 
+wn_path = 
+dp_path = 
 sprite_size = (200,200)
 window = None
 label = None
@@ -38,6 +67,12 @@ skins = [
     "resources/skins/diii_normal.png",
     "resources/skins/diii_evil.png",
     "resources/skins/diii_whatsapp.png",
+    "resources/skins/diii_discord.png",
+    "resources/skins/diii_golf.png",
+    "resources/skins/diii_linux.png",
+    "resources/skins/diii_monster.png",
+    "resources/skins/diii_cisco.png"
+
 ]
 # normalized position ratios (0–1)
 anchor_x_ratio = 1.0  # 100% across screen width (right-hand side)
@@ -52,8 +87,32 @@ def normalized_pixmap(path):
         QtCore.Qt.TransformationMode.SmoothTransformation
     )
 
+def cycle_back(icon=None,item=None):
+    global skin_index, sprite
+    skin_index = (skin_index-1) % len(skins)
+    new_path = resource_path(skins[skin_index])
+    sprite=normalized_pixmap(new_path)
+    if skin_index == 0:
+        pg.mixer.Sound.play(default)
+    elif skin_index == 1:    
+        pg.mixer.Sound.play(roar)
+    elif skin_index == 2: 
+        pg.mixer.Sound.play(whatsapp_notification)
+    elif skin_index == 3:
+        pg.mixer.Sound.play(discord_ping)
+    elif skin_index == 4:
+        pg.mixer.Sound.play(putter)
+    elif skin_index == 5:
+        pg.mixer.Sound.play(typing)
+    elif skin_index == 6:
+        pg.mixer.Sound.play(roar2)
+    elif skin_index == 7:
+        pg.mixer.Sound.play(beep)
+        
+    # redraws sprite on next bob
+    bob_squish()
 
-def change_skin(icon=None,item=None):
+def cycle_forth(icon=None,item=None):
     global skin_index, sprite
     skin_index = (skin_index+1) % len(skins)
     new_path = resource_path(skins[skin_index])
@@ -216,7 +275,9 @@ def create_tray_icon():
 
     menu = Menu(
         MenuItem("Quit", quit_app),
-        MenuItem("Change Skin", change_skin)
+        MenuItem("Change Skin (Cycle Forward)",cycle_forth),
+        MenuItem("Change Skin (Cycle Back)",cycle_back)
+        #MenuItem("Toggle Sounds", toggle_sounds)
     )
 
     icon = Icon("destroyman", image, "Destroyman III", menu)
