@@ -9,14 +9,19 @@ import requests
 import pygame as pg
 
 # todo: toggle_sounds
-# def toggle_sounds():
+def toggle_sounds(icon=None,item=None):
+    global sounds_enabled
+    sounds = [discord_ping,whatsapp_notification,roar,beep,roar2,typing,putter,default]
+    sounds_enabled = not sounds_enabled
+    if sounds_enabled:
+        for sound in sounds:
+            sound.set_volume(1.0)
+    else:
+        pg.mixer.music.set_volume(0.0)
+        for sound in sounds:
+            sound.set_volume(0.0)
 
-# discord https://www.youtube.com/watch?v=vKyK6CAnjdc
-# typing www.youtube.com/watch?v=sqge5keBCq4&pp=ygUTa2V5Ym9hcmQgdHlwaW5nIHNmeA%3D%3D
-# golf hi1 wii sports https://www.youtube.com/watch?v=HqGCHBiz-jY
-# kid making robot sounds https://www.youtube.com/watch?v=kIJNOhXRQNE (boop)
-# whatsapp whistle https://www.youtube.com/watch?v=SXXVS1RpoMI
-# fnaf kids cheering www.youtube.com/watch?v=9bnUWuAO0oU&pp=ygUTZm5hZiA0IGtpZHMgeWF5IHNmeA%3D%3D (for default)
+
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
@@ -39,6 +44,15 @@ def get_speeches(url):
         return None
 
 pg.mixer.init()
+kc_path = resource_path("resources/sounds/fnaf.mp3")
+putter_path = resource_path("resources/sounds/hole.mp3")
+typing_path = resource_path("resources/sounds/keyboard.mp3")
+roar2_path = resource_path("resources/sounds/roar.mp3")
+boop = resource_path("resources/sounds/kid.mp3")
+roar_path = resource_path("resources/sounds/roar.mp3")
+wn_path = resource_path("resources/sounds/whistle.mp3")
+dp_path = resource_path("resources/sounds/discord.mp3")
+
 discord_ping = pg.mixer.Sound(dp_path)
 whatsapp_notification = pg.mixer.Sound(wn_path)
 roar = pg.mixer.Sound(roar_path)
@@ -48,19 +62,13 @@ typing = pg.mixer.Sound(typing_path)
 putter = pg.mixer.Sound(putter_path)
 default = pg.mixer.Sound(kc_path)
 
-kc_path = 
-putter_path = 
-typing_path = 
-roar2_path = 
-boop = 
-roar_path = 
-wn_path = 
-dp_path = 
+
 sprite_size = (200,200)
 window = None
 label = None
 sprite = None
 is_squished = False  # toggle state
+sounds_enabled = True # toggle sounds
 url = "https://raw.githubusercontent.com/hansyhansy14/destroyman-the-third/main/dist/resources/speeches.txt"
 skin_index = 0
 skins = [
@@ -276,8 +284,8 @@ def create_tray_icon():
     menu = Menu(
         MenuItem("Quit", quit_app),
         MenuItem("Change Skin (Cycle Forward)",cycle_forth),
-        MenuItem("Change Skin (Cycle Back)",cycle_back)
-        #MenuItem("Toggle Sounds", toggle_sounds)
+        MenuItem("Change Skin (Cycle Back)",cycle_back),
+        MenuItem("Toggle Sounds", toggle_sounds)
     )
 
     icon = Icon("destroyman", image, "Destroyman III", menu)
